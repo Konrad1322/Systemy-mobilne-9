@@ -1,0 +1,19 @@
+
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+m
+=app/src/main/java/com/example/libraryappdwa/MainActivity.java,5\f\5fca469f531947dc182e0b302f42ce8f71fe3072
+q
+Aapp/src/main/java/com/example/libraryappdwa/RetrofitInstance.java,2\a\2a4a9334c3630e88e0e489dbc2c79165a7b74665
+n
+>app/src/main/java/com/example/libraryappdwa/BookContainer.java,7\8\7813108bb82110f6e25e92f9df03b97d4925379a
+t
+Dapp/src/main/java/com/example/libraryappdwa/BookDetailsActivity.java,0\8\08a6b609e06b3d1763c0d7da7446d8c9962e1c84
+l
+<app/src/main/java/com/example/libraryappdwa/BookService.java,f\b\fbbc542ae0d05a6fac415286ebb7a4e8fc484af5
+e
+5app/src/main/java/com/example/libraryappdwa/Book.java,a\e\ae11bac34554df305aeaf3c221e33a5cfbc1dcd1
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
